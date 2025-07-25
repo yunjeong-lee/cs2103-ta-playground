@@ -1,1 +1,9 @@
-apples\nbananas\ncherries\n
+apples, apricots
+bananas
+cherries
+dragon fruits
+elderberries
+figs
+oranges
+pears
+raisins
