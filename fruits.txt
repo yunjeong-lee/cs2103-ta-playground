@@ -1,4 +1,5 @@
-apples, apricots
+apples
+apricots
 bananas
 cherries
 dragon fruits
